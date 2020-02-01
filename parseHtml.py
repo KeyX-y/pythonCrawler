@@ -24,7 +24,7 @@ class ParseHtml(object):
   @classmethod
   def parsePageList(cls, dom):
     taskQueue = TaskQueue.getTaskQueue()
-    baseUrl = 'https://www.haokongbu.com'
+    baseUrl = 'http://www.hkb123.com'
     content = etree.HTML(dom.text)
     con = content.xpath("//div[@class='channel-content']/ul/child::*")
 

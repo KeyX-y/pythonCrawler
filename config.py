@@ -1,7 +1,7 @@
 
 class Config(object):
-  url = 'https://www.haokongbu.com/dongzuopian/index.html'
-  subUrl = 'https://www.haokongbu.com/dongzuopian/index_'
+  url = 'http://www.hkb123.com/dongzuopian/index.html'
+  subUrl = 'http://www.hkb123.com/dongzuopian/index_'
   THREAD_SUM = 6
   movieType = ['dongzuopian', 'xijupian', 'aiqingpian', 'kehuanpian', 'kongbupian', 'zhanzhengpian', 'juqingpian','m_jlp', 'donghuapian', 'gaoqing']
 

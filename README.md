@@ -3,7 +3,7 @@
 
 ### 爬取迅雷论坛电影
 
-[相关链接](https://www.haokongbu.com)
+[相关链接](https://www.hkb123.com)
 
 ### 爬虫结果
 
